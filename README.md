@@ -10,13 +10,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-548571%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    4 commits      █████████████████████████   100.0% 
+🌆 Daytime    6 commits      █████████████████████████   100.0% 
 🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -27,16 +27,20 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 24 mins             ██████████░░░░░░░░░░░░░░░   43.07% 
+JavaScript               13 mins             █████░░░░░░░░░░░░░░░░░░░░   23.35% 
+Git Config               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.33% 
+TypeScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.28% 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.42%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  57 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  57 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 24/08/2021
+ Last Updated on 25/08/2021
 <!--END_SECTION:waka-->
