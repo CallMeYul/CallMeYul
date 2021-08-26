@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-548571%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
