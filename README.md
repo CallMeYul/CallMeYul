@@ -25,16 +25,16 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-JavaScript               28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 09/09/2021
+ Last Updated on 10/09/2021
 <!--END_SECTION:waka-->
