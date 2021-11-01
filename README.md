@@ -25,16 +25,16 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 46 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            1 hr 46 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 46 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 31/10/2021
+ Last Updated on 01/11/2021
 <!--END_SECTION:waka-->
