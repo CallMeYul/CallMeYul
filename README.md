@@ -25,17 +25,16 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-HTML                     0 secs              ███████████████████░░░░░░   76.14% 
-CSS                      0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.86%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 16/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
