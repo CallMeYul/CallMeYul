@@ -25,16 +25,19 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      2 hrs 47 mins       ██████████████░░░░░░░░░░░   59.47% 
+HTML                     1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   33.74% 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.79% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 41 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 41 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 29/01/2022 18:45:29 UTC
+ Last Updated on 30/01/2022 18:38:19 UTC
 <!--END_SECTION:waka-->
