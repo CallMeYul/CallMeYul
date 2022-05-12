@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm a Night 🦉** 
 
@@ -38,5 +38,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/05/2022 18:45:10 UTC
+ Last Updated on 12/05/2022 18:47:37 UTC
 <!--END_SECTION:waka-->
