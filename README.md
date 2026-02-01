@@ -10,8 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%207%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -36,5 +34,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/01/2026 18:52:55 UTC
+ Last Updated on 01/02/2026 18:57:25 UTC
 <!--END_SECTION:waka-->
